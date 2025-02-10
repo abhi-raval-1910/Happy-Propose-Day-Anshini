@@ -1,5 +1,5 @@
 const febHolidays = [
-    "Dear Anshini, please feel it",
+    "Dear Chosen One, please feel it",
     "Your smile makes my whole day brighter.",
     "I can never get tired of talking to you. 😊",
     "You are my biggest happiness. 🥰",
