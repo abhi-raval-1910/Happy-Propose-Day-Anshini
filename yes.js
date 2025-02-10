@@ -8,7 +8,7 @@ const febHolidays = [
     "Your voice is my favorite sound. 🎶",
     "You're my everything ✔",
     "I can never be upset with you.💕",
-    "Every time I see your name pop up(NOTIFICATION), I smile. 😊",
+    "Every time I see your name popup(NOTIFICATION),I smile.😊",
     "I can’t imagine my life without you.",
     "I will always be there for you",
     "I will always support You",
